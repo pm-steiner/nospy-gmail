@@ -1,0 +1,7 @@
+This scripts cleans up the urls in your gmail emails which google
+rewrites to their <code>http://google.com/url?=</code> which may be a 
+click tracker. I don't like it either way. 
+
+INSTALLATION:
+
+You need greasemonkey or tampermonkey to use this.
