@@ -1,8 +1,9 @@
 # nospy-gmail
-DESCRIPTION:
+
+## DESCRIPTION:
 A user script that rewrites google's tracking urls in your gmail emails
 
-FUNCTION:
+## FUNCTION:
 This scripts cleans up the urls in your gmail emails which google
 rewrites to their <code>http://google.com/url?=</code> which may be a 
 click tracker using a simple regex. I don't like it when gmail rewrites
@@ -13,6 +14,6 @@ my friend's links from
 I know it's meant to "protect" me from phishing websites or malware, I just
 don't appreciate my urls being scanned.
 
-INSTALLATION:
+## INSTALLATION:
 
 You need greasemonkey or tampermonkey to use this.
